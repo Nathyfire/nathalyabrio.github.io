@@ -1,0 +1,33 @@
+body{
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imagem{
+    background-image: url(imagem/yo.jfif);
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    overflow: hidden;
+    float: left;
+    margin: 200px;
+    transition: 0.3s ease;
+}
+
+.div-cabeçalho a{
+    background-color: #f3ebf5;
+    color: #3f1973;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+
+.h1{
+    font-size: 50px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px rgb(32, 32, 219);
+    
+}
+
